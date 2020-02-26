@@ -2,6 +2,10 @@
 
 ctse_lab03_it17152938
 
+
+Home page Singup button navigat LoginPage
+and Login button navigat ReviewsPage
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
